@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- WHITE LABEL: the whole app is themed from these five colours -->
+    <color name="brand_primary">#FF2E7DF7</color>
+    <color name="brand_primary_dark">#FF1B4FA8</color>
+    <color name="brand_accent">#FF32D6A0</color>
+    <color name="bg_base">#FF101418</color>
+    <color name="bg_surface">#FF1A2027</color>
+
+    <color name="text_primary">#FFF2F5F8</color>
+    <color name="text_secondary">#FF9BA6B2</color>
+    <color name="focus_fill">#FF2E7DF7</color>
+    <color name="selected_fill">#332E7DF7</color>
+</resources>

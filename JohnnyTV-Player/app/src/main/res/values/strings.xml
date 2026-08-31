@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- WHITE LABEL: this is the name shown on the launcher -->
+    <string name="app_name">JohnnyTV</string>
+
+    <string name="server_hint">Server address</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="connecting">Connecting…</string>
+    <string name="live_tv">Live TV</string>
+    <string name="movies">Movies</string>
+    <string name="search_hint">Search</string>
+    <string name="all_channels">All</string>
+    <string name="loading">Loading…</string>
+    <string name="sign_out">Sign out</string>
+    <string name="nothing_here">Nothing here</string>
+    <string name="fill_all_fields">Please enter your username and password</string>
+    <string name="no_server">Service unavailable right now. Please try again shortly.</string>
+    <string name="support_mode">Support mode: server address unlocked</string>
+
+    <string name="update_title">Update available</string>
+    <string name="update_message">A newer version of JohnnyTV is ready. Update for the best experience.</string>
+    <string name="update_now">Update</string>
+    <string name="update_later">Later</string>
+</resources>
