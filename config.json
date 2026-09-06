@@ -1,7 +1,10 @@
 {
-  "server": "aHR0cDovL2VkZ2UuYno6ODA4MA==",
+  "servers": [
+    "aHR0cDovL2VkZ2UuYno6ODA4MA==",
+    "aHR0cDovL2xpbmUuZGluby53cw=="
+  ],
   "notice": "",
-  "latest_version_code": 1,
+  "latest_version_code": 12,
   "download_url": "https://github.com/bradleysharp9-web/johnnytv-config/raw/main/JohnnyTV.apk",
   "force_update": false
 }
